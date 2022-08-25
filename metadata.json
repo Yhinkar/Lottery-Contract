@@ -1,0 +1,27 @@
+
+{
+  "description": "Web3Bridge NFT test",
+  "external_url": "https://twitter.com/yinkaabeeb",
+  "image": "https://ipfs.filebase.io/ipfs/QmZ6xxiFsuEuXG2e7R9T98Y7m9RzfByMymR8ngPB823xZU",
+  "name": "Yinka Token",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Course",
+      "value": "Web3Bridge Cohort VII"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC721"
+    },
+    {
+      "trait_type": "Date",
+      "value": "19th August, 2022"
+    }
+  ]
+}
+
+
