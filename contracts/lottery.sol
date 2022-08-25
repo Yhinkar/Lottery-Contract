@@ -35,7 +35,7 @@ contract Lotterycontract{
     }
     
 
-    function GenerateRandomNumber() private view returns(uint){
+    function GenerateRandomNumber() public view returns(uint){
       // return uint(keccak256(abi.encodePacked(block.difficulty, block.timestamp, Potplayers.length)));
        return uint(keccak256(abi.encodePacked(Potowner, block.timestamp)));
     }
